@@ -1,0 +1,1 @@
+This starter portfolio uses CSS illustrations instead of image files. Add your own optimized images here if your instructor expects image assets, then reference them with relative paths such as images/my-photo.jpg.
